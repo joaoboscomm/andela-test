@@ -1,5 +1,5 @@
-<type>: <description>
+type: Subject
 
-[optional body]
+body
 
-[optional footer]
+footer
